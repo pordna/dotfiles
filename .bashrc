@@ -4,8 +4,8 @@ alias ll='ls -Gl'
 #vi設定
 alias vi='vim -u ~/.vimrc'
 alias view='vim -R -u ~/.vimrc'
-#alias openssl='/usr/local/opt/openssl/bin/openssl'
 
+# PATH変更方法が不明なため //nodebrew設定のように書くのが好ましい
 PATH="/usr/local/opt/openssl/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin"
 
 # nodebrew設定
